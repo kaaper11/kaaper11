@@ -7,7 +7,7 @@ I'm aiming to become a full stack developer, I'm currently coding and developing
 
 Skills:   REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on [] 
+- 🔭 I’m currently working on https://github.com/kaaper11/Portfolio
 - 🌱 I’m currently learning REACT 🤟 
 - 📫 How to reach me: ajdynakacper@gmail.com 📧 
 - ⚡ Fun fact: I like playing on PS2 🎮 
