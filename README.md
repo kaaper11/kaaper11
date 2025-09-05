@@ -1,4 +1,3 @@
-<center>
 ### Hello 👋, my name is Kacper
 #### I am a computer science student
 ![I am a computer science student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -21,5 +20,5 @@ Skills:   REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaaper11)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kaaper11)  
-</center>
+
 
